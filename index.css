@@ -1,0 +1,49 @@
+.body {
+    background-color: aqua;
+    color: black;
+    text-align: left;
+}
+
+.container {
+    width: 60%;
+    margin: 350px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.ad {
+    width: 15cm;
+}
+
+h1 {
+    text-align: center;
+    padding-right: 5cm;
+}
+
+.sub_heading {
+    text-align: center;
+    padding-right: 5cm;
+}
+
+.button {
+    width: 7cm;
+    background-color: black;
+    color: azure;
+}
+
+.but_ton {
+    text-align: center;
+    padding-top: 30px;
+    padding-right: 100px;
+}
+
+.line {
+    text-align: left;
+}
+
+hr {
+    border-color: black;
+    width: 580px;
+    padding-top: 1px;
+    margin-right: 400px;
+}
